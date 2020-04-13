@@ -1,3 +1,11 @@
+### To view this deployed github page please go to this link
+
+>>>>>>> https://alizedematas.github.io/TheSocialNetwork/
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
